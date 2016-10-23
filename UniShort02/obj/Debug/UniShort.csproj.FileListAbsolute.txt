@@ -1,0 +1,4 @@
+E:\VisualStudio\UniShort\UniShort02\bin\Debug\UniShort02.exe.config
+E:\VisualStudio\UniShort\UniShort02\obj\Debug\UniShort.csprojResolveAssemblyReference.cache
+E:\VisualStudio\UniShort\UniShort02\obj\Debug\UniShort02.UniShort.resources
+E:\VisualStudio\UniShort\UniShort02\obj\Debug\UniShort.csproj.GenerateResource.Cache
