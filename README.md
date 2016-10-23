@@ -1,2 +1,3 @@
 # UniShort
-Add a HotKey to short for URL
+
+Add a HotKey to short URL in clipboard,and paste clipboad.
